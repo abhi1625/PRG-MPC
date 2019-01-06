@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/trial_mpc.dir/trial_mpc.cpp.o  -o ../trial_mpc -rdynamic /home/abhinav/ACADOtoolkit/build/lib/libacado_toolkit_s.so -Wl,-rpath,/home/abhinav/ACADOtoolkit/build/lib 
